@@ -16,7 +16,7 @@ Member:
 This project implements a Random Forest Classification model using PySpark MLlib to classify toddler nutritional status based on anthropometric measurements.
 
 The system integrates:
-- 🔗 MongoDB Atlas as data source
+- 🔗 MongoDB
 - 🐼 Pandas for initial data handling
 - ⚡ PySpark for big data processing
 - 🌲 Random Forest Classifier for multi-class classification
